@@ -3,7 +3,7 @@ module.exports = {
         prefixe: '+', // Préfixe - Le texte avant les commandes
         buyer: '1122190536577646704', // Buyer
         couleur: '#6495ED', // Couleur HEX
-        footer: '4Protect', // Dans la commande help ou autre il y'a un texte en bas
+        footer: 'AuraeBot', // Dans la commande help ou autre il y'a un texte en bas
         maxServer: '100', // Le nombre de serveur maximum que le bot peut rejoindre 
     }
 }
